@@ -1,5 +1,5 @@
-Snorkle
-=======
+"Snorkle" Animated Gif
+======================
 
 .. image:: snorkle.gif
 
